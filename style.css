@@ -20,7 +20,7 @@ body{
 
 .block{
 	float:left;
-	width: 33.3%;
+	width: 50%;
 	border: 1px solid #ccc;
 	padding: 10px;
 	box-sizing: border-box;
